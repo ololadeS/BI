@@ -11,3 +11,4 @@ To understand the factors that contribute to the success of a movie and identify
 -Do certain genres of movies tend to perform better than others?
 -How does the rating of a movie affect its performance?
 -Are there any trends or patterns in the performance of movies released at different times of the year?
+.
