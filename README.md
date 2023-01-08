@@ -19,6 +19,7 @@ The company should consider investing in movies in these categories in order to 
 
 ### Recommendations: 
 Based on these findings, the following recommendations are proposed:
+
 Increase investment in action and adventure movies, as well as movies with high budgets and IMDb ratings.
 Monitor the movie industry trends and adjust investment strategy accordingly.
 Use Power BI to visualize and analyze movie data on an ongoing basis to identify new opportunities and track progress over time.
