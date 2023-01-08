@@ -4,5 +4,5 @@
 To understand the trends and patterns in the movie
 
 ### Analysis Process
-Data Cleaning and Preparation: 
+Data Cleaning and Preparation:  
 .
