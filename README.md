@@ -9,7 +9,7 @@ The data was checked for missing values and inconsistencies. Missing values were
 
 - Exploratory data analysis: 
 Analysis of the data revealed the following trends:
-  1. Comedy and Drama movies have the highest rating, average budget and revenue followed by Horror and Action movie movies. 
+  1. Comedy and Drama movies have the highest rating, budget and revenue followed by Horror and Action movie movies. 
   2. There was a positive correlarion betweeen budget and revenue with 0.67 value using pearson correlation, with the higher budget movies trending to have higher revenues.
   3. There was correlation between rating and revenue, with movies with higher ratings to have higher revenue
 
